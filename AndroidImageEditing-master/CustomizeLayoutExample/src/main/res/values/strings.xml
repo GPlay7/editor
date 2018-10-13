@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Photo Makeup</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="banner_show_footer">ca-app-pub-9590663615277504/5424568670</string>
+    <string name="banner_show_notific_footer">ca-app-pub-9590663615277504/5424568670</string>
+    <!--interstitial-->
+    <string name="interstitial_ad_showActivity">ca-app-pub-9590663615277504/6901301877</string>
+    <string name="interstitial_ad_showNotificActivity">ca-app-pub-9590663615277504/6901301877</string>
+
+</resources>
